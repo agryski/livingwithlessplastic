@@ -1,6 +1,6 @@
 ---
-title: A beginners’ guide to baking your own bread
-date: 16 May 2019
+title: 'A beginners’ guide to baking your own bread'
+date: 2019-05-16T09:01+02:00
 description: >-
   Baking bread from scratch is frugal and avoids plastic packaging.
 image: /images/uploads/news_item-02.png
