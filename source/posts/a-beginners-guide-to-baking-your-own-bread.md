@@ -3,7 +3,7 @@ title: 'A beginners’ guide to baking your own bread'
 date: 2019-05-16T09:01+02:00
 description: >-
   Baking bread from scratch is frugal and avoids plastic packaging.
-image: /images/uploads/news_item-02.png
+image: /images/uploads/news_item-02.jpg
 ---
 
 One way that individuals can reduce their plastic use is by making things from scratch.  
