@@ -24,6 +24,6 @@ tough, impact absorbing, fire resistant and light. And it can be thrown into the
 we are finished using it!
 
 Ikea is using ‘Ecocradle’ mushroom mycelium packaging materials; check out
-[https://medium.com/wedonthavetime/ikea-starts-using-biodegradable-mushroom-based-packaging-for-its-products-42d079f98bb1](this short article).
+[this short article](https://medium.com/wedonthavetime/ikea-starts-using-biodegradable-mushroom-based-packaging-for-its-products-42d079f98bb1).
 Let’s ask all the manufacturers to use mycelium packaging!
 
