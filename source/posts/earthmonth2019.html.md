@@ -15,9 +15,8 @@ you to purchase apples, for example, in a plastic bag in order to qualify for a 
 
 Supermarkets are slow to get the message, but the furor is building! Greenpeace is collecting
 signatures on their petitions to increase the plastics-free options in grocery stores (100,000
-signatures went to Trader Joe’s) and you can add your voice to the clamour. [Sign the
-Greenpeace petition here]
-(https://act.greenpeace.org/page/36787/petition/1?locale=en-US&amp;fbclid=IwAR1nQo5tkFZ3XBe_EELA3t-iiLTSJT6zF2DeOgCHLBtsG1wywxvtklh4aWg)
+signatures went to Trader Joe’s) and you can add your voice to the clamour. 
+[Sign the Greenpeace petition here](https://act.greenpeace.org/page/36787/petition/1?locale=en-US&amp;fbclid=IwAR1nQo5tkFZ3XBe_EELA3t-iiLTSJT6zF2DeOgCHLBtsG1wywxvtklh4aWg)
 
 For a great overview of the plastic groceries situation in Canada (including some inspiring
 examples from a British grocery store) watch the recent [CBC Marketplace video here](https://www.youtube.com/watch?v=n5Qbi_dB3Qo)
