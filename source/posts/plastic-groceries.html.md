@@ -2,7 +2,7 @@
 title: 'Plastic Groceries'
 date: 2019-02-01T09:01+02:00
 description: >-
-  Mushroom-based packaging can replace styrofoam.
+  Are you concerned about the amount of plastic you 'buy' when you do your grocery shopping?
 image: /images/uploads/groceries.jpg
 ---
 
