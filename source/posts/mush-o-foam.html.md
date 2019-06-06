@@ -23,8 +23,7 @@ mushroom mycelium to grow, 6) take the final product out of the mold. The new ma
 tough, impact absorbing, fire resistant and light. And it can be thrown into the compost when
 we are finished using it!
 
-Ikea is using ‘Ecocradle’ mushroom mycelium packaging materials; check out this short article
-https://medium.com/wedonthavetime/ikea-starts-using-biodegradable-mushroom-based-
-packaging-for-its-products-42d079f98bb1.
+Ikea is using ‘Ecocradle’ mushroom mycelium packaging materials; check out
+[https://medium.com/wedonthavetime/ikea-starts-using-biodegradable-mushroom-based-packaging-for-its-products-42d079f98bb1](this short article).
 Let’s ask all the manufacturers to use mycelium packaging!
 
