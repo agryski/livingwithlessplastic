@@ -21,7 +21,7 @@ greener options. Here are some things that can be done:
 1. Contact the chain’s head office
 2. Share the names of ‘green’ grocery stores
 3. Let the stockers and the cashier know that we are looking for ‘less packaging’ options
-4. follow Zero Waste Canada
+4. follow [Zero Waste Canada](http://zerowastecanada.ca)
 5. support farmers markets and local producers
 6. use fewer prepared foods by making our own versions
 
