@@ -22,10 +22,10 @@ Amazon: Lists 4 different brands, including Abeego: Beeswax Food Wrap, Honeywrap
 and Beetomee.
 
 The Abeego brand is available at:
-* Gardenworks Marine Drive, Burnaby
-* Canteen &amp; Supply, 810 Quayside Drive, New Westminster
-* Eden West Fine Foods, 96 Kyle St, Port Moody
-* Walmart
+- Gardenworks Marine Drive, Burnaby
+- Canteen &amp; Supply, 810 Quayside Drive, New Westminster
+- Eden West Fine Foods, 96 Kyle St, Port Moody
+- Walmart
 
 Drop me a line to let me know about either your experience with beeswax cloths or finding a
 restaurant that lets you use your own containers for take-out… ! <lessplasticnewwest@gmail.com>
