@@ -3,7 +3,7 @@ title: 'Who is Helping you Live with Less Plastic'
 date: 2018-11-01T09:01+02:00
 description: >-
   Where to find plastic-free options
-image: /images/uploads/generic-news.jpg
+image: /images/uploads/generic_news.jpg
 ---
 
 ##Who is helping you in ‘Living with Less Plastic’?
